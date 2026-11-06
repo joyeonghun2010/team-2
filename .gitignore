@@ -1,0 +1,7 @@
+# Keep the wine dataset local
+Wine dataset.csv
+
+# Local Python environment and notebook state
+.venv/
+.ipynb_checkpoints/
+__pycache__/
